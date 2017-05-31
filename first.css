@@ -2,11 +2,19 @@ h1 {
   color : red;
     font-size : 28pt;
 }
-section {
+section #a {
            width: 250px;
            background-color: green;
            padding: 25px;
            border: 10px solid blue;
+           margin: 25px;
+           height: auto;
+           }
+section #b {
+           width: 250px;
+           background-color: red;
+           padding: 25px;
+           border: 10px solid black;
            margin: 25px;
            height: auto;
            }
