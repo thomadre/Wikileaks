@@ -5,6 +5,8 @@ h1 {
   color: red;
     font-size: 64pt;
 }
+p{ font-family: comic Sans;
+}
 p#abc012 {
       color: white;
       font-size: 28pt;
