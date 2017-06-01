@@ -8,7 +8,7 @@ section#abc123 {
            padding: 25px;
            border: 10px solid blue;
            margin: 25px;
-           height: auto;
+           height: 25px;
            }
 section#abc234 {
            width: 30px;
@@ -16,7 +16,7 @@ section#abc234 {
            padding: 30px;
            border: 10px solid black;
            margin: 25px;
-           height: auto;
+           height: 25px;
            }
 
 
