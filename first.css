@@ -2,12 +2,12 @@ body{
       background-image: url("http://www.ninezero.com/images/1700-960/sailboats-in-boston-0a5755ca.jpg");
 }
 h1 {
-  color : red;
-    font-size : 64pt;
+  color: red;
+    font-size: 64pt;
 }
 p#abc012 {
-      color : white;
-      font-size : 28pt;
+      color: white;
+      font-size: 28pt;
 }
 section#abc456 {
            width: 250px;
