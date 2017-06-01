@@ -2,7 +2,7 @@ h1 {
   color : red;
     font-size : 28pt;
 }
-section#a {
+section#123456 {
            width: 250px;
            background-color: green;
            padding: 25px;
@@ -10,7 +10,7 @@ section#a {
            margin: 25px;
            height: auto;
            }
-section#b {
+section#234567 {
            width: 300px;
            background-color: red;
            padding: 30px;
@@ -18,7 +18,7 @@ section#b {
            margin: 25px;
            height: auto;
            }
-section#b {
+section#345678 {
            width: 300px;
            background-color: yellow;
            padding: 30px;
